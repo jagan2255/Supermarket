@@ -1,0 +1,88 @@
+.content22{
+  height: 100vh;
+  background-color:rgb(156, 156, 156);
+}
+
+.nav22 {
+    background-color: transparent;
+    transition: background-color 0.5s ease;
+    height: 80px;
+    color: white;
+  }
+
+  .mcsyt{
+    cursor: pointer;
+  }
+
+  .carousel23{
+    height: 100vh;
+  }
+
+  .second22{
+    height: 90vh;
+    background-color: rgb(178, 180, 183);
+  }
+
+  .pulse{
+   color:red;
+  }
+
+  .footer{
+    height: 50px;
+    background-color: rgb(152,140,116);
+    color: white;
+    padding-top: 15px;
+    padding-left: 140px;
+    font-size: smaller;
+  }
+
+  .thirdsection{
+    min-height: 45vh;
+    background-color: grey;
+    padding-bottom: 40px;
+
+  }
+
+  .caption44{
+    font-size: smaller;
+    color: white;
+  }
+
+  .boxcv{
+    border: 1px solid white;
+  }
+  
+  .btmhdt{
+    border-bottom: 1px solid rgba(255, 251, 251, 0.621);
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    padding-top: 50px;
+    color: white;
+  }
+
+  .imgdetuy{
+    margin-bottom: 20px;
+  }
+
+  .hdtloc{
+    padding-top: 40px;
+    padding-bottom: 30px;
+  }
+
+  iframe{
+    width: 1100px;
+  }
+
+  @media only screen and (max-width: 767px) {
+    iframe {
+      width:450px
+    }
+
+    .classwe{
+       display: none;
+    }
+
+    .footer{
+        padding-left: 15px;
+    }
+  }
