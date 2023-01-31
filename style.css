@@ -108,7 +108,8 @@
   @media only screen and (max-width: 767px) {
     iframe {
       width:400px;
-      height:300px
+      height:300px;
+      overflow: hidden;
     }
 
     .classwe{
@@ -152,12 +153,15 @@
     height: 75vh;
   }
 
+
   }
+
+  
+  
 
   .offcanvas{
     height:480px;
     margin-top:30px;
-    max-width: 150px;
     
   }
   .offcanvas-body,.offcanvas-header{
@@ -367,3 +371,20 @@ ul.no-list li {
  .largescrenicon>a:hover ,.qsdmcsyt>a:hover{
   color:red
  }
+
+ .jashjkg{
+  font-weight: 800;
+  background-color: rgba(0, 0, 0, 0.545);
+  min-height: 70px;
+  padding: 20px;
+  font-family: 'Skranji', cursive;
+  font: 700;
+ }
+
+ @media only screen and (max-width: 300px) {
+  iframe{
+    width:300px;
+
+  }
+
+}
