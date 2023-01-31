@@ -423,3 +423,11 @@ ul.no-list li {
     transform: translateX(0);
   }
 }
+
+
+#whatsapp-widget {
+  position: fixed;
+  bottom: 45px;
+  right: 50px;
+  display: block;
+}
