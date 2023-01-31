@@ -372,12 +372,10 @@ ul.no-list li {
  }
 
  .jashjkg{
-  font-weight: 800;
-  background-color: rgba(0, 0, 0, 0.545);
-  min-height: 70px;
-  padding: 20px;
-  font-family: 'Skranji', cursive;
-  font: 700;
+  font-family: 'Secular One', sans-serif;
+  font-weight:900;
+  font-size: xx-large;
+
  }
 
  @media only screen and (max-width: 300px) {
@@ -386,4 +384,46 @@ ul.no-list li {
 
   }
 
+}
+
+.dhgkfjhds{
+  color: red;
+}
+
+.fghfghgfghf{
+  background-color: rgba(0, 0, 0, 0.358);
+}
+
+@media only screen and (max-width: 630px) {
+  .jashjkg{
+    font-size:x-large;
+
+  }
+
+}
+
+.hello {
+  animation: hello-from-right 1s ease-in-out forwards;
+}
+
+.world {
+  animation: world-from-left 1s ease-in-out forwards;
+}
+
+@keyframes hello-from-right {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes world-from-left {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
 }
