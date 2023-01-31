@@ -155,13 +155,12 @@
 
 
   }
-
-  
   
 
   .offcanvas{
     height:480px;
     margin-top:30px;
+    width: 350px;
     
   }
   .offcanvas-body,.offcanvas-header{
