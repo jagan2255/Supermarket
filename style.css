@@ -107,7 +107,7 @@
 
   @media only screen and (max-width: 767px) {
     iframe {
-      width:400px;
+      width:340px;
       height:300px;
       overflow: hidden;
     }
@@ -378,13 +378,9 @@ ul.no-list li {
 
  }
 
- @media only screen and (max-width: 300px) {
-  iframe{
-    width:300px;
 
-  }
 
-}
+
 
 .dhgkfjhds{
   color: red;
