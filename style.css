@@ -99,13 +99,18 @@
    }
 
    .gfdhgfdchbs{
-    font-size: larger;
+    font-size:large;
+    font-family: 'Roboto', sans-serif;
+    font:500;
    }
    .jhfghjg{
     padding-top: 50px;
    }
 
   @media only screen and (max-width: 767px) {
+    .gfdhgfdchbs{
+      font-size: medium;
+    }
     iframe {
       width:340px;
       height:300px;
@@ -215,7 +220,7 @@
  .Product22{
   min-height: 70vh;
   background-color: rgb(0, 0, 0);
-  color: red;
+  color: white;
   padding-top: 50px;
  }
 
@@ -431,3 +436,19 @@ ul.no-list li {
   right: 20px;
   display: block;
 }
+
+.carousel-inner .carousel-item {
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+.carouselitems{
+  background-color: rgba(0, 0, 0, 0.562);
+  z-index: index 7;
+}
+
+.bvcxjkhvjk{
+  font-size: large;
+  font-family: 'Roboto', sans-serif;}
+
+
