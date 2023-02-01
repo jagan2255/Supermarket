@@ -21,7 +21,7 @@ window.onscroll = function() {
     responsiveClass:true,
     responsive:{
         0:{
-            items:2,
+            items:1,
             loop:true,
             margin:10,
             autoplay:true,
