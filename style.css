@@ -29,6 +29,11 @@
   .second22{
     height: 90vh;
     background-color: rgb(178, 180, 183);
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/7/827/804/light-web-sky-digital-art-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
   }
 
   .pulse{
@@ -200,7 +205,13 @@
  
 
  .content22{
+  color: white;
   padding: 50px;
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/914/746/419/abstract-digital-art-minimalism-simple-background-wallpaper-preview.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
  }
 
  
@@ -449,7 +460,7 @@ ul.no-list li {
 
 .bvcxjkhvjk{
   font-size: medium;
-  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
   padding-left: 40px;
   padding-right: 40px;
 }
