@@ -413,6 +413,7 @@ ul.no-list li {
 
   }
 
+
 }
 
 .hello {
@@ -485,14 +486,24 @@ ul.no-list li {
   padding-top: 30px;
   padding-left: 60px;
   padding-right: 60px;
-  height: 70px;
   color: white;
-  min-height: 37vh;
+  min-height: 40vh;
 }
 
 .ewytyewrt{
   border: 5px solid rgba(0, 0, 0, 0.682);
   border-radius: 5px;
+}
+
+@media only screen and (max-width: 630px) {
+  .dfgdfjkldlk{
+    min-height: 33vh;
+  }
+    .content22{
+      padding-top: 20px;
+      min-height: 65vh;
+    
+  }
 }
 
 
