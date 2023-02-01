@@ -7,6 +7,8 @@ window.onscroll = function() {
     } else {
       navbar.style.backgroundColor = "transparent";
     }
+
+  
   };
 
 
@@ -49,8 +51,8 @@ window.onscroll = function() {
 
 
 
-  var element = document.getElementById("qwertgfdsa");
-  element.setAttribute("id", "fghddfgdf");
+
+  
 
 
 
