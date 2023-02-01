@@ -473,17 +473,26 @@ ul.no-list li {
 .kslkjldj{
   min-height: 90vh;
   background-color: rgba(70, 131, 180, 0.234);
+  margin-top: 80px;
+  color :black;
+  padding-bottom: 70px;
+
 }
 
 
 .dfgdfjkldlk{
-  background-color: rgba(0, 0, 0, 0.916);
+  background-color: rgb(0, 0, 0);
   padding-top: 30px;
   padding-left: 60px;
   padding-right: 60px;
   height: 70px;
   color: white;
-  min-height: 40vh;
+  min-height: 37vh;
+}
+
+.ewytyewrt{
+  border: 5px solid rgba(0, 0, 0, 0.682);
+  border-radius: 5px;
 }
 
 
