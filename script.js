@@ -43,3 +43,8 @@ window.onscroll = function() {
         }
     }
 })
+
+const product22 = document.querySelector('#products');
+
+
+product22.a

@@ -107,9 +107,15 @@
     font-size:large;
     font-family: 'Roboto', sans-serif;
     font:500;
+    font-family: sans-serif;
    }
    .jhfghjg{
     padding-top: 50px;
+   }
+
+   .dgfdgnvbnb{
+    font-weight:bolder;
+
    }
 
   @media only screen and (max-width: 767px) {
@@ -509,7 +515,6 @@ ul.no-list li {
     width: 340px;
   }
 }
-
 
 
 
