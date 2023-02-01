@@ -90,8 +90,8 @@
   }
 
   .textslider{
-    position: absolute;
-    margin-bottom: 18%;
+    /* position: absolute; */
+    margin-bottom: 34vh;
   }
 
   .smallscrenicon{
@@ -137,7 +137,7 @@
     }
 
     .textslider{
-      margin-bottom: 57%;
+      /* margin-bottom: 57%; */
 
     }
 
