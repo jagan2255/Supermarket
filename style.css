@@ -493,6 +493,7 @@ ul.no-list li {
 .ewytyewrt{
   border: 5px solid rgba(0, 0, 0, 0.682);
   border-radius: 5px;
+  width: 300px;
 }
 
 @media only screen and (max-width: 630px) {
