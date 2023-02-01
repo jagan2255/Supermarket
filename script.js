@@ -44,7 +44,13 @@ window.onscroll = function() {
     }
 })
 
-const product22 = document.querySelector('#products');
 
 
-product22.a
+
+
+
+  var element = document.getElementById("qwertgfdsa");
+  element.setAttribute("id", "fghddfgdf");
+
+
+
