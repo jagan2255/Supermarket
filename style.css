@@ -158,20 +158,11 @@
     padding: 7px;
    }
 
-   .carousel23{
-    height: 75vh;
-   }
+  
 
   }
 
-  /* @media only screen and (max-width: 550px) {
-
-  .carousel23{
-    height: 75vh;
-  }
-
-
-  } */
+ 
   
 
   .offcanvas{
@@ -521,4 +512,15 @@ ul.no-list li {
   
 
 
+@media only screen and (max-width: 980px) {
 
+  .carousel23{
+    height: 75vh;
+  }
+
+  .jashjkg{
+    font-size:x-large ;
+  }
+
+
+  }
