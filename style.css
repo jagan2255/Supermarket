@@ -1,5 +1,4 @@
 .content22{
-  min-height: 70vh;
   background-color:rgb(156, 156, 156);
 }
 
@@ -27,13 +26,13 @@
   }
 
   .second22{
-    height: 90vh;
     background-color: rgb(178, 180, 183);
     background-image: url('https://c4.wallpaperflare.com/wallpaper/7/827/804/light-web-sky-digital-art-wallpaper-preview.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     color: white;
+    padding-bottom: 50px;
   }
 
   .pulse{
@@ -50,7 +49,7 @@
   }
 
   .thirdsection{
-    min-height: 45vh;
+    min-height: 35vh;
     background-color: black;
     color: red;
     padding-bottom: 40px;
@@ -86,7 +85,7 @@
   }
 
   iframe{
-    width: 1100px;
+    width: 850px;
   }
 
   .textslider{
@@ -142,7 +141,7 @@
     }
 
     .second22{
-      height:70vh;
+     padding-bottom: 35px;
     }
 
     .largescrenicon{
@@ -493,7 +492,6 @@ ul.no-list li {
   padding-left: 60px;
   padding-right: 60px;
   color: white;
-  min-height: 40vh;
 }
 
 .ewytyewrt{
@@ -503,12 +501,9 @@ ul.no-list li {
 }
 
 @media only screen and (max-width: 630px) {
-  .dfgdfjkldlk{
-    min-height: 33vh;
-  }
+  
     .content22{
       padding-top: 20px;
-      min-height: 60vh;
     
   }
   .ewytyewrt{
