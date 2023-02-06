@@ -56,7 +56,7 @@
   }
 
   .caption44{
-    font-size: smaller;
+    font-size: 14px;
     color: white;
   }
 
@@ -550,7 +550,7 @@ ul.no-list li {
     background-color: red;
     color: white;
     padding-top: 8px;
-    width: 50%;
+    width: 60%;
     font-size: medium;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 8% 100%);
   
@@ -579,3 +579,4 @@ ul.no-list li {
        padding-bottom: 9px !important;
        padding-top: -5px !important;
     }
+
