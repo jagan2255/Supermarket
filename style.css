@@ -5,12 +5,12 @@
 .nav22 {
     background-color: transparent;
     transition: background-color 0.5s ease;
-    height: 80px;
+    height: 110px;
     color: white;
   }
 
   .fdghf{
-    margin-top: -15px;
+    margin-top: -45px;
   }
 
   .mcsyt{
@@ -224,6 +224,7 @@
   .class2342{
     display: none;
   }
+ 
  }
 
  .Product22{
@@ -243,6 +244,7 @@
  .dbhfjkeds{
   width: 160px;
   transition: transform 0.03s  ease-in-out;
+  border-radius: 50%;
 
  }
 
@@ -443,8 +445,8 @@ ul.no-list li {
 
 #whatsapp-widget {
   position: fixed;
-  bottom: 40px;
-  right: 20px;
+  bottom: 30px;
+  right: 35px;
   display: block;
 }
 
@@ -518,4 +520,62 @@ ul.no-list li {
     height: 75vh;
   }
 
+ 
+
   }
+
+
+  .border-fade-in-out {
+    background-color: #25D366;
+    border-radius: 50%;
+    padding: 15px;    
+    animation: borderFadeInOut 2s ease-in-out infinite;
+  }
+  
+  @keyframes borderFadeInOut {
+    0% {
+      background-color: transparent;
+    }
+   
+    50% {
+      background-color: #25d3659f;
+    }
+
+    100% {
+      background-color: transparent;
+    }
+  }
+
+  .bmrtfdgd{
+    background-color: red;
+    color: white;
+    padding-top: 8px;
+    width: 50%;
+    font-size: medium;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 8% 100%);
+  
+  }
+  
+  .rgtrfgfdgfd{
+    padding-left: 30px;
+  }
+  
+  
+
+  @media only screen and (max-width: 980px) {
+
+  
+    .bmrtfdgd>p , .bmrtfdgd>div{
+      display: none;
+    }
+    .bmrtfdgd{
+      background-color: transparent;
+    }
+  
+    }
+
+    .dcvxvvcx{
+       height: 45px !important;
+       padding-bottom: 9px !important;
+       padding-top: -5px !important;
+    }
