@@ -577,3 +577,26 @@ ul.no-list li {
        padding-top: -5px !important;
     }
 
+
+    .ourservice{
+  background-image: url('https://media.istockphoto.com/id/1281041623/vector/studio-room-background.jpg?s=612x612&w=0&k=20&c=sa4Cmfav9HqximETEl9AuMy5BkMNgwu9c-b4apMm4rA=');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  padding-bottom: 40px;
+  padding-top: 50px;
+    }
+
+    .dsjkfhkds{
+      padding: 25px;
+      padding-top: 30px;
+      font-size: 27px;
+      font-weight: lighter;
+    }
+
+    @media only screen and (max-width: 650px) {
+      .dsjkfhkds{
+        font-size: 20px;
+      }
+    }
